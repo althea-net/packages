@@ -130,7 +130,6 @@ HOST_CONFIGURE_ARGS += \
 			--without-bonjour \
 			--without-gssapi \
 			--without-ldap \
-			--without-openssl \
 			--without-pam \
 			--without-perl \
 			--without-python \
@@ -146,7 +145,6 @@ CONFIGURE_ARGS += \
 			--without-bonjour \
 			--without-gssapi \
 			--without-ldap \
-			--without-openssl \
 			--without-pam \
 			--without-perl \
 			--without-python \
